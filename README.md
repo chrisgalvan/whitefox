@@ -1,7 +1,7 @@
 # whitefox
-Configuration files for my Whitefox
+Configuration files for my [Whitefox](https://input.club/whitefox/) (True Fox layout)
 
-![Whitefox configurator](./media/whitefox-configurator.png)
+![Whitefox configurator](media/whitefox-configuration.png)
 
 ## Setup
 
