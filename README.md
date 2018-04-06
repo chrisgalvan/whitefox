@@ -1,7 +1,7 @@
 # whitefox
 Configuration files for my Whitefox
 
-![Whitefox configurator](./media/whitefox-configurator.png)
+![Whitefox configurator](media/whitefox-configuration.png)
 
 ## Setup
 
